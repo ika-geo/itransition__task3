@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "cli-table3": "^0.6.5",
+    "crypto": "^1.0.1"
+  },
+  "type": "module"
+}
